@@ -21,6 +21,8 @@ Se non viene utilizzata una chiave valida il servizio restituisce nel menu a ten
 La base dati di riferimento è costantemente aggiornata con le variazioni amministrative e postali ufficiali.
   
 Output di base:
-  - indirizzo verificato e corretto in tutti i suoi compomenti
+  - comune\cap\provincia\frazione verificato e corretto
+  
+ Per la gestione dell'indirizzo richiedere la chiave per il servizio SUGGEST
   
 Per ogni domanda o chiarimento manda una mail a supporto@streetmaster.it
