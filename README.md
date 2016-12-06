@@ -2,7 +2,7 @@
 
 ## Demo SuggestFree ASPNET
 
-Demo ASP.NET per l'utilizzo del servizio SUGGEST Free di autocompletamento degli indirizzi italiani
+Demo ASP.NET per l'utilizzo del servizio SUGGEST Free di autocomplete dei comuni e degli indirizzi italiani
 
 ### Ambiente di sviluppo
   - C#
@@ -27,10 +27,11 @@ Se non viene utilizzata una chiave valida il servizio restituisce nel menu a ten
 La base dati di riferimento è costantemente aggiornata con le variazioni amministrative e postali ufficiali.
   
 ### Ouput
+L'autocompletamento del comune si attiva in automatico appenal'utente comincia a scrivere nel textbox
 Output di base:
   - comune\cap\provincia\frazione verificato e corretto
   
- Per la gestione dell'indirizzo richiedere la chiave per il servizio SUGGEST
+ Per l'autocompletamento dell'indirizzo richiedere la chiave per il servizio SUGGEST
   
 ### Aggiornamenti base dati comunale
   - 01/01/2016 Istituzione
