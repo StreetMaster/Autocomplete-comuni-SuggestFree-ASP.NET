@@ -13,8 +13,8 @@ Demo ASP.NET per l'utilizzo del servizio SUGGEST Free di autocompletamento degli
   - JQuery 2.2.4
   - JQueryUI 1.11.4
  
-### EndPoint
-End point della libreria da includere nella sezione js di inizializzazione
+### Endpoint
+Endpoint della libreria da includere nella sezione js di inizializzazione
 ```
   http://ec2-46-137-97-173.eu-west-1.compute.amazonaws.com/suggest/js/1.0/suggest_free.js
 ```
