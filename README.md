@@ -1,8 +1,8 @@
-# Autocomplete Comuni italiani e indirizzi - FREE
+# Comuni italiani - Autocomplete - Servizio Free
 
 ## Demo SuggestFree ASPNET
 
-Demo ASP.NET per l'utilizzo del servizio SUGGEST Free di autocomplete dei comuni e degli indirizzi italiani
+Comuni italiani. Demo ASP.NET per l'utilizzo del servizio SUGGEST Free di autocomplete.
 
 ### Ambiente di sviluppo
   - C#
