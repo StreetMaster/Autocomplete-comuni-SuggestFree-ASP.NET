@@ -27,7 +27,7 @@ Se non viene utilizzata una chiave valida il servizio restituisce nel menu a ten
 La base dati di riferimento è costantemente aggiornata con le variazioni amministrative e postali ufficiali.
   
 ### Ouput
-L'autocompletamento del comune si attiva in automatico appenal'utente comincia a scrivere nel textbox
+L'autocompletamento del comune si attiva in automatico appena l'utente comincia a scrivere nel textbox
 Output di base:
   - comune\cap\provincia\frazione verificato e corretto
   
