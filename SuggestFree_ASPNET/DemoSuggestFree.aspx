@@ -19,7 +19,7 @@ Per l'utilizzo registrarsi sul sito http://streetmaster.it e richiedere la chiav
     <title>Suggest Free-Street Master</title>
 
     <!-- include della libreria di gestione SUGGEST Free StreetMaster -->
-    <script type="text/javascript" src="http://ec2-46-137-97-173.eu-west-1.compute.amazonaws.com/suggest/js/1.0/suggest_free.js"></script>
+    <script type="text/javascript" src="http://ec2-46-137-97-173.eu-west-1.compute.amazonaws.com/suggest/js/1.1/suggest_free.js"></script>
     <!--Inizio dichiarazioni SUGGEST Free StreetMaster -->
     <script type="text/javascript">
 
@@ -29,7 +29,6 @@ Per l'utilizzo registrarsi sul sito http://streetmaster.it e richiedere la chiav
         // chiave suggest, collegata all'url della pagina
         keyTR = "inserire la chiave SUGGEST Free";
 
-
         // dichiarazione dei controlli di input\output per il suggest
         aAddressSet[0].townSrch = "txtComune";
         aAddressSet[0].town = "txtComune";
@@ -37,7 +36,9 @@ Per l'utilizzo registrarsi sul sito http://streetmaster.it e richiedere la chiav
         aAddressSet[0].zip = "txtCap";
         aAddressSet[0].village = "txtFrazione";
 
-        provSearch = false;
+        provSearch = true;
+        provFormatLong=false;   
+        outGerman=false; 
     </script>
     <!--Fine dichiarazioni SUGGEST Free StreetMaster -->
     <style type="text/css">
@@ -59,7 +60,7 @@ Per l'utilizzo registrarsi sul sito http://streetmaster.it e richiedere la chiav
                     <th colspan="2">
                         <asp:Image ID="Image1" runat="server" ImageUrl="~/images/logo-street-master.png" />
                         <br />
-                        <font size="5"> SUGGEST</font></th>
+                        <font size="5">SUGGEST</font></th>
                 </tr>
                 <tr>
                     <td class="auto-style2">Comune
