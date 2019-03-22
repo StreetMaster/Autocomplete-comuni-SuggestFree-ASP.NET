@@ -28,7 +28,6 @@ Per l'utilizzo registrarsi sul sito http://streetmaster.it e richiedere la chiav
 
         // chiave suggest, collegata all'url della pagina
         keyTR = "inserire la chiave SUGGEST Free";
-        keyTR = "ZwAZ2eUr3J";
 
         // dichiarazione dei controlli di input\output per il suggest
         aAddressSet[0].townSrch = "txtComune";
