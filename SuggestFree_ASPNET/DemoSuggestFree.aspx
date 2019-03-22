@@ -19,7 +19,7 @@ Per l'utilizzo registrarsi sul sito http://streetmaster.it e richiedere la chiav
     <title>Suggest Free-Street Master</title>
 
     <!-- include della libreria di gestione SUGGEST Free StreetMaster -->
-    <script type="text/javascript" src="http://ec2-46-137-97-173.eu-west-1.compute.amazonaws.com/suggest/js/1.1/suggest_free.js"></script>
+    <script type="text/javascript" src="http://ec2-46-137-97-173.eu-west-1.compute.amazonaws.com/suggest/js/1.2/suggest_free.js"></script>
     <!--Inizio dichiarazioni SUGGEST Free StreetMaster -->
     <script type="text/javascript">
 
@@ -28,6 +28,7 @@ Per l'utilizzo registrarsi sul sito http://streetmaster.it e richiedere la chiav
 
         // chiave suggest, collegata all'url della pagina
         keyTR = "inserire la chiave SUGGEST Free";
+        keyTR = "ZwAZ2eUr3J";
 
         // dichiarazione dei controlli di input\output per il suggest
         aAddressSet[0].townSrch = "txtComune";
