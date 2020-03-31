@@ -16,7 +16,7 @@ Comuni italiani. Soluzione ASP.NET per l'utilizzo del servizio SUGGEST Free di a
 ### Endpoint
 Endpoint della libreria da includere nella sezione js di inizializzazione
 ```
-  http://ec2-46-137-97-173.eu-west-1.compute.amazonaws.com/suggest/js/1.2/suggest_free.js
+  https://streetmaster.streetmaster.it/suggest/js/1.2/suggest_free.js
 ```
 ### Key
 Per l'utilizzo registrarsi sul sito http://streetmaster.it e richiedere la chiave per il servizio SUGGEST Free.
